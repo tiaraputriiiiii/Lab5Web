@@ -6,14 +6,12 @@ NIM  : 312210009
 Kelas : TI.22.A1
 ```
 
-```
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
 |1|Instruksi Praktikum|[Click Here](#instruksi-praktikum)|
 |2|Langkah-langkah Praktikum|[Click Here](#langkah-langkah-praktikum)|
 |3|Pertanyaan dan Tugas|[Click Here](#pertanyaan-dan-tugas)|
-```
 
 ## Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
